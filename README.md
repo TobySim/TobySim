@@ -15,5 +15,5 @@ I enjoy building projects using Java, Python, SQL, and learning new technologies
 Java | Python | SQL | Git | AWS | OOP | Data Structures
 
 ## Connect With Me
-LinkedIn: (your linkedin link)
-Email: your email
+LinkedIn: https://www.linkedin.com/in/tsimon16/
+Email: tobysimon16@gmail.com
