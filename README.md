@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Toby 👋
 
-<!--
-**TobySim/TobySim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science senior focused on software development, problem solving, and building real-world applications.
 
-Here are some ideas to get you started:
+## About Me
+I enjoy building projects using Java, Python, SQL, and learning new technologies. Currently seeking full-time software engineering opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Animal Farm Management System
+- Pet Adoption & Foster Matching Platform
+- Java Data Structures Projects
+- Arduino Traffic Signal Simulator
+
+## Skills
+Java | Python | SQL | Git | AWS | OOP | Data Structures
+
+## Connect With Me
+LinkedIn: (your linkedin link)
+Email: your email
